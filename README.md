@@ -9,11 +9,11 @@ Analyse the data given about different driving scenarios, including the destinat
 
 **Inferences :** 
 
-* Drivers who have visited a coffee house multiple times and are driving at 10 AM exhibit a significantly high acceptance rate for coffee house coupons.
+* Drivers who have visited a coffee house more than 1 time and are driving at 10 AM exhibit a significantly high acceptance rate for coffee house coupons.
 * Drivers traveling with friends show a higher acceptance rate for coffee house coupons.
 * Drivers aged 21 and below have a higher acceptance rate for coffee house coupons.
-* Students and healthcare professionals who have visited a coffee house multiple times exhibit a higher acceptance rate for coffee house coupons.
-* Drivers who have visited a coffee house multiple times and are traveling with friends show a higher acceptance rate for coffee house coupons.
+* Students and healthcare professionals who have visited a coffee house more than 1 time exhibit a higher acceptance rate for coffee house coupons.
+* Drivers who have visited a coffee house more than 1 time and are traveling with friends show a higher acceptance rate for coffee house coupons.
 * 1-day expiration coupons have a higher acceptance rate for coffee house coupons.
 * Gender does not influence the acceptance rate of coffee house coupons.
 
