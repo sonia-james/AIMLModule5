@@ -12,7 +12,7 @@ Analyse the data given about different driving scenarios, including the destinat
 
 * Drivers who have visited a coffee house more than 1 time and are driving at 10 AM exhibit a significantly high acceptance rate for coffee house coupons.
 * Drivers traveling with friends show a higher acceptance rate for coffee house coupons.
-* Drivers aged 21 and below have a higher acceptance rate for coffee house coupons.
+* Drivers aged 31 and below have a higher acceptance rate for coffee house coupons.
 * Students and healthcare professionals who have visited a coffee house more than 1 time exhibit a higher acceptance rate for coffee house coupons.
 * Drivers who have visited a coffee house more than 1 time and are traveling with friends show a higher acceptance rate for coffee house coupons.
 * 1-day expiration coupons have a higher acceptance rate for coffee house coupons.
@@ -22,7 +22,7 @@ Analyse the data given about different driving scenarios, including the destinat
 * Launch targeted coupon campaigns around 10 AM to capitalize on the high acceptance rate during this time.
 * Offer exclusive or loyalty-based coupons for drivers who have visited coffee houses more than once.
 * Design referral or group-based incentives for drivers traveling with friends (e.g., "Buy 1 Get 1 Free" or "Group Discount" coupons).
-* Run targeted ad campaigns or coupon promotions aimed at drivers aged 21 and below. Leverage platforms where younger audiences are more active (like social media).
+* Run targeted ad campaigns or coupon promotions aimed at drivers aged 31 and below. Leverage platforms where younger audiences are more active (like social media).
 * Create special promotions for students and healthcare professionals who are frequent coffee house visitors (e.g., "Student Discounts" or "Healthcare Heroes Specials").
 * Avoid customizing coupon offers based on gender, as gender has no impact on acceptance rates.
 * Monitor Campaign performance and adapt
