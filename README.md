@@ -5,7 +5,7 @@ AI/ML Berkely course : Submission for module 5 Assignment
 *  https://github.com/sonia-james/AIMLModule5/blob/main/CustomerAndCoupon.ipynb
 
 **Purpose :** 
-Analyse the data given about different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver. From the given data figure if a driver would accept the coupon and further recommendations for the success of the coupons rollout. 
+Analyse the data given about different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver. From the given data figure if a driver would accept the coupon and further provide recommendations for the success of the coupons rollout. 
 
 **Inferences :** 
 
